@@ -23,6 +23,10 @@ A modern, production-ready Next.js boilerplate with comprehensive authentication
 - **User Actions** - Delete users, revoke sessions
 - **Responsive Admin UI** with modern design
 
+**Admin Panel**
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/be71d4d2-abde-4acc-93a0-29041940b9ad" />
+
+
 ### 🎨 UI/UX
 - **Modern Design System** with Tailwind CSS
 - **Responsive Layout** for all devices
