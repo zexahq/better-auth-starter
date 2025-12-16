@@ -36,7 +36,7 @@ A modern, production-ready Next.js boilerplate with comprehensive authentication
 
 ## 🛠️ Tech Stack
 
-- **Framework:** Next.js 15 with App Router
+- **Framework:** Next.js 16 with App Router
 - **Authentication:** Better Auth
 - **Database:** PostgreSQL with Drizzle ORM
 - **Styling:** Tailwind CSS
@@ -57,15 +57,15 @@ A modern, production-ready Next.js boilerplate with comprehensive authentication
 ### Installation
 
 1. **Clone the repository**
-   ```bash
-   git clone <repository-url>
-   cd zexa-auth-starter
-   ```
+    ```bash
+    git clone <repository-url>
+    cd zexa-auth-starter
+    ```
 
 2. **Install dependencies**
-   ```bash
-   npm install
-   ```
+    ```bash
+    pnpm install
+    ```
 
 3. **Environment Setup**
 
@@ -76,16 +76,16 @@ A modern, production-ready Next.js boilerplate with comprehensive authentication
    ```
 
 4. **Database Setup**
-   ```bash
-   # Generate and run migrations
-   npm run db:generate
-   npm run db:migrate
-   ```
+    ```bash
+    # Generate and run migrations
+    pnpm db:generate
+    pnpm db:migrate
+    ```
 
 5. **Start Development Server**
-   ```bash
-   npm run dev
-   ```
+    ```bash
+    pnpm dev
+    ```
 
 Visit `http://localhost:3000` to see your application!
 
@@ -110,14 +110,14 @@ src/
 
 ## 🔧 Available Scripts
 
-- `npm run dev` - Start development server with Turbopack
-- `npm run build` - Build for production
-- `npm run start` - Start production server
-- `npm run lint` - Run ESLint
-- `npm run db:generate` - Generate database migrations
-- `npm run db:migrate` - Run database migrations
-- `npm run db:push` - Push database migrations to the database
-- `npm run db:studio` - Open the Drizzle ORM Studio
+- `pnpm dev` - Start development server with Turbopack
+- `pnpm build` - Build for production
+- `pnpm start` - Start production server
+- `pnpm lint` - Run ESLint
+- `pnpm db:generate` - Generate database migrations
+- `pnpm db:migrate` - Run database migrations
+- `pnpm db:push` - Push database migrations to the database
+- `pnpm db:studio` - Open the Drizzle ORM Studio
 
 ## 🔑 Key Features Explained
 
