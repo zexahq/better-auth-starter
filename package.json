@@ -55,15 +55,15 @@
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
-    "@types/node": "^20",
+    "@types/node": "^25",
     "@types/pg": "^8.15.2",
     "@types/react": "^19",
     "@types/react-dom": "^19",
     "drizzle-kit": "^0.31.1",
     "eslint": "^9",
-    "eslint-config-next": "15.1.6",
+    "eslint-config-next": "16.1.3",
     "postcss": "^8.5.3",
-    "prettier": "^3.7.4",
+    "prettier": "^3.8.0",
     "tsx": "^4.19.4",
     "tw-animate-css": "^1.3.0",
     "typescript": "^5"
